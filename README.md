@@ -1,4 +1,10 @@
-### Hi there 👋
+
+Hi there 👋
+A full stack software developer and a Data Analyst
+
+With a combination of both class and self-taught experience, i have skills and passion to build robust,and easily maintainable web applications and Analyzing big data Committed to staying current with the latest technologies to deliver outstanding solutions & open to learning from industry experts.
+
+I`m open for any opportunities.
 
 <!--
 **kincaid314/kincaid314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
